@@ -1,4 +1,4 @@
-# Welcome to Data Visualization Principles and Techniques!
+# CMSE 402: Data Visualization Principles and Techniques
 
 ## Course Details
 
@@ -7,7 +7,7 @@ on the left hand side of this page. In addition, here are some quick links
 to important course content:
 
 * [Course Syllabus](./syllabus.html)
-* [Course Calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vSwdKDV7jDmfTPHllJnAeG53pTAIsbxnaw07zfut8d8tClWI_IYC82n3VBIcxmqocuR0D1JotHkN961/pubhtml?gid=552775605&single=true)
+* [Course Calendar](./schedule)
 
 Course assignments will be distributed via
 [GitHub Classroom](https://classroom.github.com/).
