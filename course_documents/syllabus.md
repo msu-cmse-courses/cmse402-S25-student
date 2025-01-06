@@ -104,7 +104,7 @@ The information regarding the instructors associated with this course and their 
 
 Students are encouraged to attend office/help room hours when they have any questions or concerns related to anything going on in the course or to speak with instructors more broadly about data visualization. 
 
-Information about office and help room hour times and locations can be found on the [course homepage](../index/html).
+Information about office and help room hour times and locations can be found on the [course homepage](./index/html).
 
 ### Grading information
  
@@ -118,7 +118,8 @@ Information about office and help room hour times and locations can be found on 
 | **Total:**                                    | 100              |
  
 ### Grading scale
-|     |            |
+
+| Grade Point | Percentage threshold|
 | --- | ---------- |
 | 4.0 | $\geq$ 90% | 
 | 3.5 | $\geq$ 85% |
