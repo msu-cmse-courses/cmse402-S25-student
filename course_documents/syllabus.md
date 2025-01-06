@@ -1,3 +1,9 @@
+---
+layout: default
+title: Syllabus
+permalink: syllabus
+---
+
 # CMSE 402: Data Visualization Principles and Techniques
 ## Course Syllabus
 
