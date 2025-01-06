@@ -35,8 +35,8 @@ permalink: schedule
 | 22 (Apr 3)  |	Project co-work day
 | 23 (Apr 8)  |	Peer review of full project drafts
 | 24 (Apr 10) |	Mind-mapping exercise to highlight and connect themes from the course
-| 25 (Apr 15) |	**Final Presentations 1** |
-| 26 (Apr 17) |	**Final Presentations 2** |
+| 25 (Apr 15) |	**Project Presentations 1** |
+| 26 (Apr 17) |	**Project Presentations 2** |
 | 27 (Apr 22) | Geospatial visualization + MSU Museum Visit |
 | 28 (Apr 24) | Geospatial visualization cont'd; Making viz for Science on a Sphere |
 | Final Exam Session<br>(May 1 - 5:45-7:45pm) | Final presentations overflow day |

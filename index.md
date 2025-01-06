@@ -25,13 +25,13 @@ Tuesdays and Thursdays from 3-4:20 PM
 
 ## Instructor Information
 
-**Devin Silvia**  
+**Devin Silvia (co-instructor)**  
 Director of Undergraduate Studies and Teaching Specialist  
 Department of Computational Mathematics, Science and Engineering  
 **Office hours**: TBD  
 **Email**: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)  
 
-**Christian Parkinson**  
+**Christian Parkinson (co-instructor)**  
 Assistant Professor
 Department of Mathematics; and  
 Department of Computational Mathematics, Science and Engineering  
