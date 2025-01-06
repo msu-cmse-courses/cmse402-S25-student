@@ -32,7 +32,7 @@ Department of Computational Mathematics, Science and Engineering
 **Email**: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)  
 
 **Christian Parkinson (co-instructor)**  
-Assistant Professor
+Assistant Professor  
 Department of Mathematics; and  
 Department of Computational Mathematics, Science and Engineering  
 **Office hours**: TBD  
