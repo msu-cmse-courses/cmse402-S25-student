@@ -1,8 +1,8 @@
 # CMSE 402: Data Visualization Principles and Techniques
 ## Course Syllabus
 
-“...graphical excellence requires telling the truth about the data”
-- Edward R. Tufte, The Visual Display of Quantitative Information
+> “...graphical excellence requires telling the truth about the data”  
+(Edward R. Tufte; The Visual Display of Quantitative Information)
  
 ### Course Description
  
