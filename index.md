@@ -6,14 +6,13 @@ The core content for this course lives in the GitHub repository accessible
 on the left hand side of this page. In addition, here are some quick links
 to important course content:
 
-* [Course Syllabus](https://docs.google.com/document/d/e/2PACX-1vRwKbgycMGy4h77CiOpFrodAnWGTtRA9aIw-SuGAcH5Qcii99-BeQPotNslz-oyxdpN927Gwo8grDTN/pub)
+* [Course Syllabus](./syllabus.html)
 * [Course Calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vSwdKDV7jDmfTPHllJnAeG53pTAIsbxnaw07zfut8d8tClWI_IYC82n3VBIcxmqocuR0D1JotHkN961/pubhtml?gid=552775605&single=true)
 
 Course assignments will be distributed via
 [GitHub Classroom](https://classroom.github.com/).
 
-Course discussions for each section, 001 and 002, will be held in the `#dataviz-s24-001` and `#dataviz-s24-002` channels, respectively, on the
-[CMSE Slack space](https://cmse-courses.slack.com). For all general questions related to course, please use the main help channel: `#dataviz-s24-general`
+Course discussions will take place via the Microsoft Teams group set up for this course. You should be automatically be added to this group and should be able to access it using your MSU login credentials. For all general questions related to course, please use the "General" channel.
 
 ## Instructor Information
 
