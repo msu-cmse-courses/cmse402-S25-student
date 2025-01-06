@@ -14,50 +14,35 @@ Course assignments will be distributed via
 
 Course discussions will take place via the Microsoft Teams group set up for this course. You should be automatically be added to this group and should be able to access it using your MSU login credentials. For all general questions related to course, please use the "General" channel.
 
-## Instructor Information
 
-### Section 001 <br> (Location: Wonders C215; Time: Tues/Thurs 3-4:20 PM)
+### Location:
+
+Wonders Hall C215
+
+### Time:
+
+Tuesdays and Thursdays from 3-4:20 PM
+
+## Instructor Information
 
 **Devin Silvia**  
 Director of Undergraduate Studies and Teaching Specialist  
 Department of Computational Mathematics, Science and Engineering  
-**Office hours**: Tuesdays 11am-12pm; Fridays 10-11am; Location EB 1508E and Zoom  
-(https://msu.zoom.us/j/99043568819; Passcode: 8675309)  
+**Office hours**: TBD  
 **Email**: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)  
 
-**TA**: Patrick Govan (primary)  
-**Office hours**: Thursday, 12-2pm; Friday, 11am-1pm; Location Zoom  
-(https://msu.zoom.us/j/93963507233; Passcode: 966388)  
-**Email**: [govanpat@msu.edu](mailto:govanpat@msu.edu)
-
-**TA**: Rachel Roca (secondary)  
-**Office hours**: Monday, 2:30-4:30pm; Location EB 1508A and Zoom  
-(https://msu.zoom.us/j/93963507233; Passcode: 966388)  
-**Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)  
-
-**In-class Facilitator**: Jonathan Kho  
-**Email**: [khojonat@msu.edu](mailto:khojonat@msu.edu)  
-
-### Section 002 <br> (Location: Hubbard G29; Time: Mon/Wed 12:40-2 PM)  
-
-**Rachel Frisbie**  
-Director of Graduate Studies and Assistant Professor  
+**Christian Parkinson**  
+Assistant Professor
+Department of Mathematics; and  
 Department of Computational Mathematics, Science and Engineering  
-**Office hours**: Tuesday, 10-11am; Wednesday; 10-11am; Location EB 1508C and Zoom (https://msu.zoom.us/j/98920826889 Passcode: 458304)  
-**Email**: [salmonra@msu.edu](mailto:salmonra@msu.edu)  
+**Office hours**: TBD  
+**Email**: [chparkin@msu.edu](mailto:chparkin@msu.edu)
 
-**TA**: Sona Chitchyan (primary)  
-**Office hours**: Tuesday, 3-5pm; Wednesday 3-5pm; Location Zoom  
-(https://msu.zoom.us/j/93963507233; Passcode: 966388)  
-**Email**: [chitchya@msu.edu](mailto:chitchya@msu.edu)  
+**Graduate Teaching Assistant**: Sunia Tanweer   
+**Office hours**: TBD  
+**Email**: [tanweer1@msu.edu](mailto:tanweer1@msu.edu)  
 
-**TA**: Rachel Roca (secondary)  
-**Office hours**: Monday, 2:30-4:30pm; Location EB 1508A and Zoom  
-(https://msu.zoom.us/j/93963507233; Passcode: 966388)  
-**Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)  
-
-**In-class Facilitator**: Jonathan Kho  
-**Email**: [khojonat@msu.edu](mailto:khojonat@msu.edu)  
+**Undergraduate Learning Assistant**: Holly Sederlund   
 
 ## Additional Reference materials
 
