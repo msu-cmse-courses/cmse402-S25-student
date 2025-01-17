@@ -28,21 +28,32 @@ Tuesdays and Thursdays from 3-4:20 PM
 **Devin Silvia (co-instructor)**  
 Director of Undergraduate Studies and Teaching Specialist  
 Department of Computational Mathematics, Science and Engineering  
-**Office hours**: TBD  
+**Office hours**:
+* Thursdays 9-10 AM in Engineering Building 1508E and via [Zoom](https://msu.zoom.us/j/99459762549).
+* Fridays 10-11 AM in Engineering Building 1508E and via [Zoom](https://msu.zoom.us/j/99459762549).
+
 **Email**: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)  
 
 **Christian Parkinson (co-instructor)**  
 Assistant Professor  
 Department of Mathematics; and  
 Department of Computational Mathematics, Science and Engineering  
-**Office hours**: TBD  
+**Office hours**:
+* Tuesdays 10-11 AM in Wells Hall D316 and via [Zoom](https://msu.zoom.us/j/99459762549).
+* Wednesdays 2-3 PM in Wells Hall D316 and via [Zoom](https://msu.zoom.us/j/99459762549).
+
 **Email**: [chparkin@msu.edu](mailto:chparkin@msu.edu)
 
 **Graduate Teaching Assistant**: Sunia Tanweer   
-**Office hours**: TBD  
+**Office hours**:
+* Mondays from 3-5 PM via [Zoom](https://msu.zoom.us/j/99459762549)
+* Wednesdays from 11-1 PM via [Zoom](https://msu.zoom.us/j/99459762549)
+
 **Email**: [tanweer1@msu.edu](mailto:tanweer1@msu.edu)  
 
-**Undergraduate Learning Assistant**: Holly Sederlund   
+**Undergraduate Learning Assistant**: Holly Sederlund  
+**Office hours**:
+* Thursdays from 12:30-2:30 PM via [Zoom](https://msu.zoom.us/j/99459762549).   
 
 ## Additional Reference materials
 
