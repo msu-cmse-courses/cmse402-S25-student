@@ -17,6 +17,7 @@ permalink: schedule
 | 6 (Jan 30) |Data manipulation: binning, filtering, smoothing, histograms |
 | 7 (Feb 4)	 | Interactive Visualization 1 |
 | 8 (Feb 6)	 | Interactive Visualization 2 |
+| **HW 1 Due** | **Must be submitted by 11:59pm on February 9** |
 | 9 (Feb 11) | Reporting/Q&A on visualization interviews (from HW assignment) |
 | **NO CLASS**<br>(Feb 13) |  |	
 | 10 (Feb 18) |	Time series datasets |
