@@ -23,18 +23,18 @@ permalink: schedule
 | 10 (Feb 18) |	Time series datasets |
 | 11 (Feb 20) |	Animation in visualizations |
 | 12 (Feb 25) | Uncertainty and missing data |	
-| 13 (Feb 27) |	Human perception and effects on visualization |
+| 13 (Feb 27) |	Building a Tableau dashboard |
 | **NO CLASS**<br>(March 4 and 6) | **Spring break** |
-| 14 (Mar 11) |	High-dimensional datasets | 	
-| 15 (Mar 13) |	Building a Tableau dashboard
-| 16 (Mar 18) |	Project proposal and peer review
-| 17 (Mar 20) |	Images color theory, color maps, and image visualization
-| 18 (Mar 25) |	Narratives in visualization
-| 19 (Mar 27) |	Tree and hierarchical data
-| 20 (Apr 1)  |	Peer review of draft visualizations for project
-| 21 (Apr 3)  |	Network/graph visualization
-| 22 (Apr 8)  |	Project co-work day
-| 23 (Apr 10) |	Peer review of full project drafts
+| 14 (Mar 11) |	Human perception and effects on visualization | 	
+| 15 (Mar 13) |	High-dimensional datasets |
+| 16 (Mar 18) |	Project proposal and peer review |
+| 17 (Mar 20) |	Images color theory, color maps, and image visualization |
+| 18 (Mar 25) |	Narratives in visualization |
+| 19 (Mar 27) |	Tree and hierarchical data |
+| 20 (Apr 1)  |	Peer review of draft visualizations for project |
+| 21 (Apr 3)  |	Network/graph visualization |
+| 22 (Apr 8)  |	Project co-work day |
+| 23 (Apr 10) |	Peer review of full project drafts |
 | 24 (Apr 15) |	Mind-mapping exercise to highlight and connect themes from the course |
 | 25 (Apr 17) |	**Project Presentations** |
 | 26 (Apr 22) |	Geospatial visualization + MSU Museum Visit |
