@@ -22,8 +22,10 @@ permalink: schedule
 | **NO CLASS**<br>(Feb 13) |  |	
 | 10 (Feb 18) |	Time series datasets |
 | 11 (Feb 20) |	Animation in visualizations |
+| **HW 2<br>Parts 1 & 2 Due** | **Must be submitted by 11:59pm on February 23** |
 | 12 (Feb 25) | Uncertainty and missing data |	
 | 13 (Feb 27) |	Building a Tableau dashboard |
+| **HW 2<br>Part 3 Due** | **Must be submitted by 11:59pm on February 28** |
 | **NO CLASS**<br>(March 4 and 6) | **Spring break** |
 | 14 (Mar 11) |	Human perception and effects on visualization | 	
 | 15 (Mar 13) |	High-dimensional datasets |
