@@ -33,6 +33,7 @@ permalink: schedule
 | 17 (Mar 20) |	Images color theory, color maps, and image visualization |
 | 18 (Mar 25) |	Narratives in visualization |
 | 19 (Mar 27) |	Tree and hierarchical data |
+| **HW 3 Due** | **Must be submitted by 11:59pm on March 28** |
 | 20 (Apr 1)  |	Peer review of draft visualizations for project |
 | 21 (Apr 3)  |	Network/graph visualization |
 | 22 (Apr 8)  |	Project co-work day |
