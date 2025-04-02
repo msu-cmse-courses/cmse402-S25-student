@@ -39,9 +39,9 @@ permalink: schedule
 | 22 (Apr 8)  |	Project co-work day |
 | 23 (Apr 10) |	Peer review of full project drafts |
 | 24 (Apr 15) |	Mind-mapping exercise to highlight and connect themes from the course |
-| 25 (Apr 17) |	**Project Presentations** |
-| 26 (Apr 22) |	Geospatial visualization + MSU Museum Visit |
-| 27 (Apr 24) | Geospatial visualization cont'd; Making viz for Science on a Sphere |
+| 25 (Apr 17) |	**Project Presentations**, submissions due midnight April 16 |
+| 26 (Apr 22) |	Streamlit Exploration, Part 1 |
+| 27 (Apr 24) | Streamlit Exploration, Part 2 |
 | Final Exam Session<br>(May 1 - 5:45-7:45pm) | Final presentations overflow day |
 
 \*This is our best guess at the schedule prior to the start of the semester. The overall content shouldn’t change, but ordering or deadlines may shift somewhat. If deadlines change, substantial notice will be given!
